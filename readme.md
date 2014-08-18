@@ -4,7 +4,7 @@ The Dockit REST API is a web service that provides routes to a destination using
 
 
 ### API calls
-All REST API calls can be tested using the server at http://192.3.10.7/ (ie. http://192.3.10.7/api/v1/stations)
+All REST API calls can be tested using the server at http://dockit.dystopianblue.com/ (ie. http://dockit.dystopianblue.com/api/v1/stations)
 
 
 ##### GET /api/v1/stations
